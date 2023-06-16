@@ -11,19 +11,14 @@
       "version": null
     },
     {
-      "name": "away3d",
-      "type": "haxelib",
-      "version": null
-    },
-    {
       "name": "flixel",
       "type": "haxelib",
-      "version": "5.2.0"
+      "version": "4.11.0"
     },
     {
       "name": "flixel-addons",
       "type": "haxelib",
-      "version": "3.0.2"
+      "version": "2.12.0"
     },
     {
       "name": "flixel-tools",
